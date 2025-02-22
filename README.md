@@ -5,3 +5,4 @@ Ez egy módosítás.
 ez egy lokális módosítás.
 konfliktus lesz a szerveren.
 hello
+Még egy új sor :)
