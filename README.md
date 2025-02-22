@@ -4,3 +4,4 @@ Ez egy módosítás.
 újabb módosítás.
 ez egy lokális módosítás.
 konfliktus lesz a szerveren.
+hello
