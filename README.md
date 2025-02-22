@@ -4,4 +4,6 @@ Ez egy módosítás.
 újabb módosítás.
 ez egy lokális módosítás.
 konfliktus lesz a szerveren.
-Ez meg mi ez... Még egy módosítás
+hello
+Még egy új sor :)
+GA módosítás
